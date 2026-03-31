@@ -347,7 +347,11 @@
           {
             "name": "Gray  Color ",
             "value": "bg-grey"
-          }          
+          },
+          {
+            "name": "White  Color ",
+            "value": "bg-white"
+          }           
         ]
       },
       {

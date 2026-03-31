@@ -806,6 +806,10 @@ main .section.bg-grey {
   background-color: #415363;
 }
 
+main .section.bg-white {
+  background-color: #FFF;
+}
+
 /* Section background image */
 /* main .section.bg-image {
   overflow: hidden;
