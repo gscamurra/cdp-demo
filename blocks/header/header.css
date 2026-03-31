@@ -208,7 +208,7 @@ header nav .nav-sections ul > li {
 }
 
 header nav .nav-sections ul > li > a {  
-  font-size: 18px;
+  font-size: 16px;
   color: #000;
   text-decoration: none;
   font-family: var(--body-font-family);
