@@ -217,6 +217,13 @@ header nav .nav-sections ul > li > a:hover {
   color: #000;
 }
 
+header nav .nav-sections ul > li:last-child {
+  color: green !important;
+  font-style: italic;
+}
+
+
+
 header nav .nav-sections ul > li > a::before {
   content: '';
   position: absolute;
