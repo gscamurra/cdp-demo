@@ -802,6 +802,10 @@ main .section.bg-light {
   color: var(--text-color);
 }
 
+main .section.bg-grey {
+  background-color: #415363;
+}
+
 /* Section background image */
 /* main .section.bg-image {
   overflow: hidden;
