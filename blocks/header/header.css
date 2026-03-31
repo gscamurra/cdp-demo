@@ -217,7 +217,7 @@ header nav .nav-sections ul > li > a:hover {
   color: #000;
 }
 
-header nav .nav-sections ul > li:last-child {
+header nav .nav-sections ul > li:last-child a {
   color: green !important;
   font-style: italic;
 }
