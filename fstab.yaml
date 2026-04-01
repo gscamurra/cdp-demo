@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p129757-e1266090.adobeaemcloud.com/bin/franklin.delivery/gscamurra/cdp-demo/main"
+    url: "https://author-p23407-e64064.adobeaemcloud.com/bin/franklin.delivery/gscamurra/cdp-demo/main"
     type: "markup"
     suffix: ".html"
